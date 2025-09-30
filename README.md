@@ -1,4 +1,5 @@
 # DDoS Protection System
+Team Members: Geetansha🐸 , Ritik🐷
 
 A comprehensive Distributed Denial of Service (DDoS) protection system implemented as a college project, featuring multiple layers of security including machine learning-based threat detection, rate limiting, CAPTCHA verification, IP blocking, and intelligent firewall mechanisms.
 
